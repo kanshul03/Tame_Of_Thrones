@@ -1,6 +1,6 @@
 from tot.tame_of_thrones_interface import TameOfThronesInterface
 from constants.constants import Constants
-from Interface import implements
+from interface import implements
 
 
 # This class is used to apply the logic of the project.

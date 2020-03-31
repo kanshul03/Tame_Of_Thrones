@@ -1,6 +1,6 @@
 from counting_occurrences.count_occurrence_interface import CountingOccurrenceInterface
 from constants.constants import Constants
-from Interface import implements
+from interface import implements
 import sys
 
 

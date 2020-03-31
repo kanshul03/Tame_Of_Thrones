@@ -1,6 +1,6 @@
 from getting_data.get_data_interface import GettingDataInterface
 from constants.constants import Constants
-from Interface import implements
+from interface import implements
 import sys
 import json
 

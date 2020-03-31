@@ -1,6 +1,6 @@
 from checking_data.check_data_interface import CheckAllianceInterface
 from constants.constants import Constants
-from Interface import implements
+from interface import implements
 
 
 # This class is used to check whether the required conditions for alliance are met or not.

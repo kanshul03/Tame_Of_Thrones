@@ -1,6 +1,6 @@
 from decrypting_data.decrypt_data_interface import DataDecryptionInterface
 from constants.constants import Constants
-from Interface import implements
+from interface import implements
 
 
 # This class is used to decrypt the secret message.

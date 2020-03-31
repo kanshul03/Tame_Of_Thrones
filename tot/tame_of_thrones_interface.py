@@ -1,4 +1,4 @@
-from Interface import Interface
+from interface import Interface
 
 
 class TameOfThronesInterface(Interface):
